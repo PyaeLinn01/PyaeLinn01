@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I’m an aspiring **AI and Machine Learning Engine
 MMIP23A00547 Mr. Pyae Linn
 
 ### MIT Emerging Talent
-- I have accepted to be part of our cohort for the MIT Emerging Talent Foundations Track for computer and data science program
+- I have accepted for the MIT Emerging Talent Foundations Track for computer and data science program
 ---
 
 ## 🔬 Programming Journey
