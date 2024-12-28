@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I’m an aspiring **AI and Machine Learning Engine
 - **Java** ☕
 - **JavaScript**
 - **PHP**
+- **C++**
 - **SQL**
 
 ### Web Development
@@ -21,6 +22,7 @@ Welcome to my GitHub profile! I’m an aspiring **AI and Machine Learning Engine
 - **Algorithms**
 - **Deep Learning**
 - **Natural Language Processing (NLP)**
+- **Large Language Model (LLM)**
 - **Computer Vision**
 
 ### Tools & Platforms
@@ -56,6 +58,12 @@ Welcome to my GitHub profile! I’m an aspiring **AI and Machine Learning Engine
 ### Bertelsmann Sponsorship
 - Sponsored by Bertelsmann for enrollment in the **Next Generation Tech Booster program** for the AI track.
 
+###  Information Technology Passport Examination Awarding institution
+-  Technology Professional Examination Council 
+MMIP23A00547 Mr. Pyae Linn
+
+### MIT Emerging Talent
+- I have accepted to be part of our cohort for the MIT Emerging Talent Foundations Track for computer and data science program
 ---
 
 ## 🔬 Programming Journey
