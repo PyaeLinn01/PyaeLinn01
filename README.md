@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I’m an aspiring **AI and Machine Learning Engine
 | [Relief Buddy](https://reliefbuddy.streamlit.app/)                              | An AI chatbot for mental health support using NLP.     | Python, Streamlit     |
 | [Fresh or Not](https://fresh-or-not.streamlit.app/)                             | Fruit freshness detector app using PyTorch and OpenCV. | PyTorch, OpenCV       |
 | [FaceCare](http://facecare.streamlit.app/)                                      |Skin Condition Detection and Skincare Advice            |  YOLO, Computervision |
-| [Text-to-Image Generator](https://github.com/PyaeLinn/YourRepoHere)             | Stable Diffusion-based app for generating images.      |Python, StableDiffusion|
+| [Text-to-Image Generator](https://github.com/PyaeLinn01/Text-to-Image-Generator)             | Stable Diffusion-based app for generating images.      |Python, StableDiffusion|
 |[One Fashion Shop](https://pyaelinn01.github.io/One-Fashion-Shop-Website-Design/)| E-commerce website for fashion items.                  | HTML, CSS, JavaScript |
 | [Healthcare System](https://github.com/PyaeLinn01/HealthCare-System-JEE)        | A web app for managing healthcare services.            | Java (JEE)            |
 | [Coffee Shop Website](https://github.com/PyaeLinn01/Coffee_Shop_Website)        | Website for coffee shop operations.                    | PHP, HTML             |
