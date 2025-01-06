@@ -126,7 +126,7 @@ Machine Learning, and innovative problem-solving.
 ## 💡 Fun Facts
 
 - I love challenges like hackathons, competitions, and building innovative solutions.
-- I’m currently working on projects like AI projects and Web Devlopment Projects.
+- I’m currently working on projects like AI projects and Web Development Projects.
 
 ---
 
