@@ -104,6 +104,7 @@ Machine Learning, and innovative problem-solving.
 
 - **Samsung Innovation Campus AI Hackathon Winner 2024**
 - **AI Comprehensive Course Graduate from Samsung Innovation Campus**
+- **Foundation of Generative AI Awarded By UDACITY**
 
 ---
 
