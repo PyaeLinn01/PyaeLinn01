@@ -115,6 +115,9 @@ I began my journey by exploring web development, computer architecture, and AI. 
 <br clear="both" />
 
 
+## 🐍 Contribution Snake
+
 <img src="https://raw.githubusercontent.com/PyaeLinn01/PyaeLinn01/output/snake.svg" alt="Snake animation" />
+
 
 ###
