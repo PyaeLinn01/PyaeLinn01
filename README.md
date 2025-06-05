@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pyae Linn and I'm an aspiring AI & Machine Learning Engineer from Myanmar 🇲🇲</h2>
+<h2 align="left">Hi 👋! My name is Pyae Linn and I'm a Computer Science student with a strong foundation in core CS principles and a deep passion for Artificial Intelligence.</h2>
 
 ###
 
