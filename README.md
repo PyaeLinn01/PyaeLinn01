@@ -2,19 +2,13 @@
 
 ###
 
+<img align="right" height="150" src="https://cdn.dribbble.com/userupload/29813910/file/original-ceb86c55ee58a519f6a7476ebceb7b64.gif" alt="fun gif" />
 
 ###
 
-<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 40px;">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PyaeLinn01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="200" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyaeLinn01&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="200" />
-  
-  <!-- Controller GIF (local file) -->
-   <img align="right" height="200" src="https://cdn.dribbble.com/userupload/29813910/file/original-ceb86c55ee58a519f6a7476ebceb7b64.gif" alt="fun gif" />
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PyaeLinn01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyaeLinn01&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ---
