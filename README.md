@@ -158,3 +158,19 @@ I began my journey by exploring web development, computer architecture, and AI. 
 
 
 ###
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=PyaeLinn01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyaeLinn01&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="200" />
+    </td>
+    <td>
+      <img src="controller.gif" alt="PS5 controller gif" height="200" />
+    </td>
+  </tr>
+</table>
+
+###
