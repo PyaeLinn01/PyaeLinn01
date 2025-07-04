@@ -4,7 +4,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=PyaeLinn01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyaeLinn01&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
-  <img src="https://i.pinimg.com/originals/ff/e7/5b/ffe75bbff20f5abcb3a7a02c836eab03.gif" height="150" alt="fun gif" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfCPB61oXrOSoK3j7baIHgxmrA08IAauAlT99uCyZBDTOtTS6AivQMk95XHwFb8zBOJo&usqp=CAU" height="150" alt="fun gif" />
 </div>
 
 ---
