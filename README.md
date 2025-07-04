@@ -4,7 +4,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=PyaeLinn01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyaeLinn01&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
-  <img src="https://img.wattpad.com/cd510db03d2b869690f910f06ad5b8e384881059/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f362d5431655762756b416f5973413d3d2d313336303439363134362e313737303135313035366137393134623234393233393833303137392e676966" height="100" alt="fun gif" />
+  <img src="https://i.makeagif.com/media/8-22-2023/CCVo_m.gif" height="150" alt="fun gif" />
 </div>
 
 ---
