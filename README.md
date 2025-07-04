@@ -2,7 +2,6 @@
 
 ###
 
-   <img align="right" height="150" src="https://cdn.dribbble.com/userupload/29813910/file/original-ceb86c55ee58a519f6a7476ebceb7b64.gif" alt="fun gif" />
 
 ###
 
@@ -14,7 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyaeLinn01&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="200" />
   
   <!-- Controller GIF (local file) -->
-  <img src="controller.gif" alt="PS5 controller gif" height="200" />
+   <img align="right" height="150" src="https://cdn.dribbble.com/userupload/29813910/file/original-ceb86c55ee58a519f6a7476ebceb7b64.gif" alt="fun gif" />
+  
 </div>
 
 ---
@@ -156,21 +156,5 @@ I began my journey by exploring web development, computer architecture, and AI. 
 
 <img src="https://raw.githubusercontent.com/PyaeLinn01/PyaeLinn01/output/snake.svg" alt="Snake animation" />
 
-
-###
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PyaeLinn01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyaeLinn01&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="200" />
-    </td>
-    <td>
-      <img src="controller.gif" alt="PS5 controller gif" height="200" />
-    </td>
-  </tr>
-</table>
 
 ###
