@@ -13,32 +13,63 @@
 
 ---
 
-## 🔧 Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-</div>
+### 🖥️ Web Development
 
-### 🖥 Web Development
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: PHP, MySQL
+**Frontend:**
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=for-the-badge" />
+</p>
+
+**Backend:**
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
+</p>
+
+---
 
 ### 🤖 AI & Machine Learning
-- Algorithms
-- Deep Learning
-- NLP
-- Large Language Models (LLMs)
-- Computer Vision
+
+<p>
+  <img src="https://img.shields.io/badge/Algorithms-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?logo=python&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-FFB300?logo=openai&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?logo=opencv&logoColor=fff&style=for-the-badge" />
+</p>
+
+---
 
 ### ⚙️ Tools & Platforms
-- **Deployment**: Streamlit, Heroku, Google Cloud, Docker  
-- **Frameworks & Libraries**: TensorFlow, PyTorch, OpenCV  
-- **Version Control**: Git
+
+**Deployment:**
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
+</p>
+
+**Frameworks & Libraries:**
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C2D91?logo=opencv&logoColor=fff&style=for-the-badge" />
+</p>
+
+**Version Control:**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
+</p>
 
 ---
 
@@ -59,7 +90,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 **Samsung Innovation Campus AI Hackathon 2024** – *Winner*, built “Freshify”, a fruit freshness & recipe recommendation app.
+- 🥇 **Samsung Innovation Campus AI Hackathon 2024** – *Winner*, built "Freshify", a fruit freshness & recipe recommendation app.
 - 🎓 **AI Comprehensive Course** – Completed 40-hour course on AI & LLMs at Samsung Innovation Campus.
 - 🌟 **Bertelsmann Sponsorship** – Enrolled in AI Track via Next Gen Tech Booster.
 - 🏅 **Information Technology Passport Examination** – Passed under Tech Pro Exam Council (MMIP23A00547).
