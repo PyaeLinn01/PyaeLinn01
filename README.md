@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/userupload/29813910/file/original-ceb86c55ee58a519f6a7476ebceb7b64.gif" alt="fun gif" />
+<img align="right" height="100%" src="https://cdn.dribbble.com/userupload/29813910/file/original-ceb86c55ee58a519f6a7476ebceb7b64.gif" alt="fun gif" />
 
 ###
 
