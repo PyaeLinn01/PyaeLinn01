@@ -1,8 +1,10 @@
 <h2 align="left">Hi 👋! My name is Pyae Linn and I'm a Computer Science student with a strong foundation in core CS principles and a deep passion for Artificial Intelligence.</h2>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 2px;">
+<div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=PyaeLinn01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyaeLinn01&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+  <img src="https://cdn.dribbble.com/userupload/29813910/file/original-ceb86c55ee58a519f6a7476ebceb7b64.gif" height="150" alt="fun gif" />
 </div>
 
 ---
@@ -67,11 +69,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenCV-5C2D91?logo=opencv&logoColor=fff&style=for-the-badge" />
-</p>
-
-**Version Control:**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
