@@ -40,7 +40,6 @@
 ### 🤖 AI & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Algorithms-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-4B8BBE?logo=python&logoColor=fff&style=for-the-badge" />
@@ -48,8 +47,6 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?logo=opencv&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MLflow-019733?logo=mlflow&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Version%20Control-945DD6?logo=dvc&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
@@ -69,6 +66,11 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenCV-5C2D91?logo=opencv&logoColor=fff&style=for-the-badge" />
+</p>
+
+**Version Control:**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
