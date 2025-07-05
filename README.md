@@ -62,7 +62,6 @@
   <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=fff&style=for-the-badge" />
 </p>
 
 **Frameworks & Libraries:**
