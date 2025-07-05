@@ -7,13 +7,13 @@
   <img src="https://cdn.dribbble.com/userupload/29813910/file/original-ceb86c55ee58a519f6a7476ebceb7b64.gif" height="150" alt="fun gif" />
 </div>
 
-
-
-
-
-
-
 ---
+
+
+
+
+
+
 
 ## 🛠️ Tech Stack & Skills
 
