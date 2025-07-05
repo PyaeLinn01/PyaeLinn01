@@ -46,7 +46,6 @@
   <img src="https://img.shields.io/badge/LLMs-FFB300?logo=openai&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?logo=opencv&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MLflow-019733?logo=mlflow&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Version%20Control-945DD6?logo=dvc&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
