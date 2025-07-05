@@ -7,6 +7,12 @@
   <img src="https://cdn.dribbble.com/userupload/29813910/file/original-ceb86c55ee58a519f6a7476ebceb7b64.gif" height="150" alt="fun gif" />
 </div>
 
+
+
+
+
+
+
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -30,8 +36,8 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge" />
 </p>
 
@@ -41,14 +47,15 @@
 
 <p>
   <img src="https://img.shields.io/badge/Algorithms-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-4B8BBE?logo=python&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-FFB300?logo=openai&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?logo=opencv&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?logo=scikit-learn&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLflow-023430?logo=mlflow&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-FFB300?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-7952B3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLflow-019733?logo=mlflow&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Version%20Control-945DD6?logo=dvc&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
@@ -61,7 +68,6 @@
   <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=fff&style=for-the-badge" />
 </p>
 
 **Frameworks & Libraries:**
@@ -69,7 +75,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenCV-5C2D91?logo=opencv&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?logo=dvc&logoColor=fff&style=for-the-badge" />
 </p>
 
 **Version Control:**
