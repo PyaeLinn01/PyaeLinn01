@@ -25,10 +25,14 @@
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=for-the-badge" />
 </p>
 
-**Backend:**
+Backend:
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
