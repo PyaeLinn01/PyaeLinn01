@@ -1,7 +1,8 @@
 <h2 align="left">Hi 👋! My name is Pyae Linn and I'm a Computer Science student with a strong foundation in core CS principles and a deep passion for Artificial Intelligence.</h2>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=PyaeLinn01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=PyaeLinn01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyaeLinn01&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
   <img src="https://cdn.dribbble.com/userupload/29813910/file/original-ceb86c55ee58a519f6a7476ebceb7b64.gif" height="150" alt="fun gif" />
 </div>
@@ -28,10 +29,6 @@
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
@@ -40,15 +37,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/Algorithms-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-4B8BBE?logo=python&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-FFB300?logo=openai&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?logo=opencv&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLflow-019733?logo=mlflow&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Version%20Control-945DD6?logo=dvc&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
